@@ -1,0 +1,79 @@
+{
+    "cartas": [
+      {
+        "nome": "Ilha / Island",
+        "quantidade": 12,
+        "preco_por_unidade": "0,50 - 0,55",
+        "preco_total": "6,00"
+      },
+      {
+        "nome": "Pântano / Swamp",
+        "quantidade": 12,
+        "preco_por_unidade": "0,50 - 0,55",
+        "preco_total": "6,00"
+      },
+      {
+        "nome": "Especialista em Lunilaço",
+        "quantidade": 2,
+        "preco_por_unidade": "0,32 - 0,35",
+        "preco_total": "0,64"
+      },
+      {
+        "nome": "Sombra de Mil Faces",
+        "quantidade": 3,
+        "preco_por_unidade": "8,55 - 9,50",
+        "preco_total": "25,65"
+      },
+      {
+        "nome": "Tormento dos Arranhões",
+        "quantidade": 4,
+        "preco_por_unidade": "0,41 - 0,45",
+        "preco_total": "1,64"
+      },
+      {
+        "nome": "Infiltradora Asas de Tinta",
+        "quantidade": 3,
+        "preco_por_unidade": "0,50 - 0,55",
+        "preco_total": "1,50"
+      },
+      {
+        "nome": "Espreitador Nezumi",
+        "quantidade": 2,
+        "preco_por_unidade": "1,35 - 1,50",
+        "preco_total": "2,70"
+      },
+      {
+        "nome": "Kotose, a Aranha Silenciosa",
+        "quantidade": 2,
+        "preco_por_unidade": "2,66 - 2,95",
+        "preco_total": "5,32"
+      },
+      {
+        "nome": "Mestre do Pelo de Prata",
+        "quantidade": 4,
+        "preco_por_unidade": "2,48 - 2,75",
+        "preco_total": "9,92"
+      },
+      {
+        "nome": "Companheiro Holofote",
+        "quantidade": 4,
+        "preco_por_unidade": "0,50 - 0,55",
+        "preco_total": "2,00"
+      },
+      {
+        "nome": "Negar",
+        "quantidade": 4,
+        "preco_por_unidade": "0,35 - 0,39",
+        "preco_total": "1,40"
+      },
+      {
+        "nome": "Moldafumo Azra",
+        "quantidade": 2,
+        "preco_por_unidade": "0,41 - 0,45",
+        "preco_total": "0,82"
+      }
+    ],
+    "total_de_itens": 54,
+    "valor_total": "R$ 63,59"
+  }
+  
